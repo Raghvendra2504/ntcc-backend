@@ -22,6 +22,12 @@ const userData = [
     sec: "B",
     batch: "2022-2026",
 },
+{
+    name: "Nishant the Thullaman",
+    course: "ASFA",
+    sec: "XXX",
+    batch: "2022-2026",
+},
 ]
 
 app.get("/",(req,res)=>{
