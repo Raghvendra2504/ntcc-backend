@@ -25,3 +25,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm ci
+    - name: Restart Production Manger on AWS Server
+      run: pm2 restart ntcc-backend
+    - name: Restart nginx service on Backend Server AWS
+      run: sudo systemctl restart nginx
