@@ -26,7 +26,7 @@ const userData = [
     name: "Nishant the Thullaman",
     course: "ASFA",
     sec: "XXX",
-    batch: "2022-2026",
+    batch: "2023-2025",
 },
 ]
 
