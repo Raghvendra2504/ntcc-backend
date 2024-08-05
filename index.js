@@ -19,7 +19,7 @@ const userData = [
 {
     name: "Baqir Rizvi",
     course: "B.Tech CSE",
-    sec: "B",
+    sec: "B",{}
     batch: "2022-2026",
 },
 ]
