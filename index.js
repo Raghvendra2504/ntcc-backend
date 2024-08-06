@@ -25,7 +25,6 @@ const userData = [
 {
     name: "Nishant",
     course: "ASFA",
-    sec: "XXX",
     batch: "2023-2025",
 },
 ]
