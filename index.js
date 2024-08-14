@@ -5,7 +5,7 @@ const PORT= 3000
 
 const userData = [
 {
-    name: "Raghvendra ",
+    name: "Raghvendra",
     course: "B.Tech CSE",
     sec: "B",
     batch: "2022-2026",
